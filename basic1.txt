@@ -1,0 +1,19 @@
+1. This will return 5
+It returns 5
+2. This will return 10
+It returns 10
+3. this will return 5
+returns 5
+4. this will return 5 and not print
+it does so
+5. this will print 100 and then print 10
+It prints the memory location of function << pointer to the function 
+memory
+6. will print 7, then 14, then print a memory location 7 to the right of 
+it prints 7, 14, 21
+7. I have no idea what will print
+invalid syntax
+8.prints 500, then prints 500, then prints 300
+it prints 500,500,300,500
+9.It prints 500,500, 300,300
+it does so
